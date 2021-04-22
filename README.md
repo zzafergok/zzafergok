@@ -1,16 +1,47 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif" height="300" width="300" align="right">
 
-<!--
-**zzafergok/zzafergok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Zafer 👋
 
-Here are some ideas to get you started:
+#### Web and Mobile Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<font color="orange">Coffee coffee is how I keep with code</font>
+
+<br/>
+<br/>
+
+### Reach out to me
+
+[<img height="24" width="24" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left"/>][twitter]
+[<img height="24" width="24" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left"/>][linkedin]
+
+<br/>
+<br/>
+
+### Tech I use
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="36" width="36" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="36" width="36" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="36" width="36" >
+<img src="https://i1.wp.com/www.muratoner.net/wp-content/uploads/2019/01/flutterlogo.png?fit=800%2C800&ssl=1" height="36" width="36" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" height="36" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="36" width="36" >
+
+<br/>
+<br/>
+ 
+<details>
+<summary> :bulb: Github Stats </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=zzafergok&theme=onedark">
+</details>
+
+<br/>
+
+<details>
+<summary> :bulb: Most Used Languages Stats </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzafergok&theme=onedark">
+</details>
+
+[twitter]: https://twitter.com/zzafergok
+[linkedin]: https://www.linkedin.com/in/zafergok/
