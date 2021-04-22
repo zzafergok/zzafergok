@@ -4,18 +4,12 @@
 
 #### Web and Mobile Developer
 
-<br/>
-
 ### Reach out to me
 
 [<img height="24" width="24" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left"/>][twitter]
 [<img height="24" width="24" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left"/>][linkedin]
 
-<br/>
-<br/>
-
 ### Tech I use
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="36" width="36" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="36" width="36" align="left">
 <img src="https://i1.wp.com/www.muratoner.net/wp-content/uploads/2019/01/flutterlogo.png?fit=800%2C800&ssl=1" height="36" width="36" align="left">
