@@ -1,14 +1,9 @@
-<img src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif" height="300" width="300" align="right">
+<img src="https://media.giphy.com/media/ujGSCZeZs2yXu/source.gif" width="375" align="right">
 
 ### Hi there, I'm Zafer 👋
 
 #### Web and Mobile Developer
 
-<br/>
-
-<font color="orange">Coffee coffee is how I keep with code</font>
-
-<br/>
 <br/>
 
 ### Reach out to me
@@ -21,6 +16,8 @@
 
 ### Tech I use
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="36" width="36" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="36" width="36" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="36" width="36" align="left">
@@ -28,6 +25,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" height="36" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="36" width="36" align="left">
 
+<br/>
 <br/>
 <br/>
  
@@ -41,7 +39,7 @@
 <details>
 <summary> :bulb: Most Used Languages Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzafergok&theme=onedark 
-" align="right">
+">
 </details>
 
 [twitter]: https://twitter.com/zzafergok
