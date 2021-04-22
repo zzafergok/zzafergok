@@ -36,8 +36,7 @@
 
 <details>
 <summary> :bulb: Most Used Languages Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzafergok&theme=onedark 
-">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzafergok">
 </details>
 
 [twitter]: https://twitter.com/zzafergok
