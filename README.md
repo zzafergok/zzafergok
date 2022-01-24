@@ -1,5 +1,6 @@
 <p align="center"> 
- <img  src="https://media.giphy.com/media/ujGSCZeZs2yXu/source.gif" width="375" > 
+ <img  src="https://media.giphy.com/media/da5kPWrEJr1ZturCMW/giphy.gif" width="375" > 
+ 
 </p>
 
 ## Hi there, I'm Zafer 👋
