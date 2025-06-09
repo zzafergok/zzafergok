@@ -20,12 +20,6 @@ Kullanıcı deneyimi odaklı web ve mobil uygulamalar geliştiriyorum.
   
 </div>
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzafergok&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</div>
-
 ## 📫 İletişim
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zzafergok)
