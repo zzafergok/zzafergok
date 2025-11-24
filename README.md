@@ -1,34 +1,38 @@
-# Merhaba, Ben Zafer 👋
+# 👋 Merhaba, Ben Zafer
 
-<div align="center">
-  <img src="https://media.giphy.com/media/da5kPWrEJr1ZturCMW/giphy.gif" width="250" height="250">
-</div>
-
-## 👨‍💻 Web ve Mobil Geliştirici
-
-Kullanıcı deneyimi odaklı web ve mobil uygulamalar geliştiriyorum.
-
-## 🛠️ Teknolojiler
-
-<div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  
-</div>
-
-## 📫 İletişim
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zzafergok)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zafergok/)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=safari&logoColor=white)](https://www.zafergok.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gok.zaferr@gmail.com)
+React & Next.js ekosistemine odaklanan bir frontend geliştiricisiyim. 
+Web ve mobil tarafta kullanıcı deneyimi güçlü, modern ve performanslı uygulamalar geliştiriyorum.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zzafergok&color=blue" alt="Profile views">
+## 🛠️ Teknolojiler
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat" />
 </div>
+
+---
+
+## 🚀 Çalışmalar
+- HR yönetimi ve aday takip sistemi geliştirme  
+- Node.js + TypeScript backend geliştirme  
+- React Native/Flutter ile mobil deneyimleri genişletme  
+
+---
+
+## 📊 GitHub İstatistikleri
+<div>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zzafergok&show_icons=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzafergok&layout=compact&theme=default" />
+</div>
+
+---
+
+## 📫 İletişim
+[LinkedIn](https://www.linkedin.com/in/zafergok/) •  
+[Website](https://www.zafergok.dev) •  
+[gok.zaferr@gmail.com](mailto:gok.zaferr@gmail.com)
