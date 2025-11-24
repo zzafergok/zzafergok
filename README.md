@@ -33,6 +33,6 @@ Web ve mobil tarafta kullanıcı deneyimi güçlü, modern ve performanslı uygu
 ---
 
 ## 📫 İletişim
-[LinkedIn](https://www.linkedin.com/in/zafergok/) •  
-[Website](https://www.zafergok.dev) •  
+[LinkedIn](https://www.linkedin.com/in/zafergok/)
+[Website](https://www.zafergok.dev)
 [gok.zaferr@gmail.com](mailto:gok.zaferr@gmail.com)
